@@ -1,1 +1,14 @@
-# ultrasonicSensor
+# ultrasonicSensor -- Individual Progress – Yu Li
+# Tasks
+  •	One of the main aspects of this project involves integrating a MCU into our design. To achieve and integrate the launchpad, background research is needed.
+  
+  •	Motion sensors are required, so we need to determine which kind of sensor we will be using. 
+# Progresses
+  •	To start coding, we need to find out which software is suitable for this project. tested using Energia and Code Composer Studio. Energia gave me errors all the time and it is not the best option when dealing with the TI MSP432 launchpad, so I determined to use Code Composer Studio to do the implementation.
+  
+  •	I am having ultrasonic sensors and IR sensors on hand, but I founded that the ultrasonic sensor is easier for us to measuring the distance between the object and sensor. 
+# Plan
+  •	Continue research and connect ultrasonic sensor into the board.
+  
+  •	Write functional code so the sensor can properly detect whether there is an object and the distance between the object and the sensor itself. 
+

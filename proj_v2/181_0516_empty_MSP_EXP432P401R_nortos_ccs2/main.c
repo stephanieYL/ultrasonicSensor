@@ -152,7 +152,7 @@ int main(void)
         printf("Distance: %d mm\n",distance);
 
         if(distance < 5000 && distance != 0)
-            P1->OUT |= BIT0;  //turning LED on if distance is less than 3cm and if distance isn't 0.
+            P1->OUT |= BIT0;  //turning LED on if distance is less than 5cm and if distance isn't 0.
         else
             P1->OUT &= ~BIT0;
 

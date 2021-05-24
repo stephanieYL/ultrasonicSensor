@@ -1,4 +1,9 @@
 # ultrasonicSensor -- Individual Progress – Yu Li
+
+# Update (5/23)
+  proj_v2 is fully functional and it will be able to calculate distance from an obstacle using HC-SR04 and display the distance serially with the serial communication feature of the launchpad, which is known as universal asynchronous receiver/transmitter (UART).
+
+
 # Tasks
   •	One of the main aspects of this project involves integrating a MCU into our design. To achieve and integrate the launchpad, background research is needed.
   
